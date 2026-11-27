@@ -1,4 +1,4 @@
- Assalamu Alaikum! I'm Samiha Islam Borsha
+ Assalamu Alaikum! I'm SAMIHA ISLAM BORSHA.
 
 CSE Student | Aspiring AI/ML Researcher | Lifelong Learner
 
@@ -8,7 +8,7 @@ CSE Student | Aspiring AI/ML Researcher | Lifelong Learner
   <a href="https://github.com/samihaislamborsha-27">
     <img src="https://komarev.com/ghpvc/?username=samihaislamborsha-27&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
   </a>
-</p>---
+</p>
 
 💫 About Me
 
@@ -27,7 +27,6 @@ I'm still learning, experimenting, and developing my technical foundations throu
 - 🌱 Currently improving my JavaScript, React, Next.js, and AI development skills
 - 🤝 Open to learning opportunities and research collaboration
 
----
 
 🧠 Areas of Interest
 
@@ -37,7 +36,6 @@ I'm still learning, experimenting, and developing my technical foundations throu
 - Research and Innovation
 - Technology for Real-World Problem Solving
 
----
 
 🛠️ Tech Stack & Tools
 
@@ -70,7 +68,7 @@ Programming Languages
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
-</p>---
+</p>
 
 🚀 Featured Projects
 
@@ -100,7 +98,6 @@ A university project focused on digital class attendance management.
 
 "GitHub Repository" (https://github.com/samihaislamborsha-27/class-attendance-management-system)
 
----
 
 🔬 Research & Academic Activities
 
@@ -122,7 +119,6 @@ Human-AI Collaboration in Modern Education: A Review of Emerging Trends
 
 - Research presented at the 11th International Congress on Contemporary Scientific Research (ISPEC), July 2026.
 
----
 
 📊 GitHub Overview
 
@@ -141,7 +137,6 @@ Human-AI Collaboration in Modern Education: A Review of Emerging Trends
 - Developing practical projects while continuously improving my skills.
 - Becoming a thoughtful problem solver through research and technology.
 
----
 
 🤝 Let's Connect
 
@@ -156,3 +151,6 @@ Human-AI Collaboration in Modern Education: A Review of Emerging Trends
   <br/>
   🌱 Always learning, always growing.
 </p>
+<a href="mailto:Samihaislamborsha27@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
