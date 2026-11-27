@@ -10,6 +10,7 @@ CSE Student | Aspiring AI/ML Researcher | Lifelong Learner
   </a>
 </p>
 
+
 💫 About Me
 
 I'm an undergraduate Computer Science and Engineering student at Daffodil Institute of IT, Bangladesh.
@@ -35,6 +36,7 @@ I'm still learning, experimenting, and developing my technical foundations throu
 - Intelligent Systems
 - Research and Innovation
 - Technology for Real-World Problem Solving
+
 
 
 🛠️ Tech Stack & Tools
@@ -69,6 +71,7 @@ Programming Languages
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
 </p>
+
 
 🚀 Featured Projects
 
@@ -127,7 +130,8 @@ Human-AI Collaboration in Modern Education: A Review of Emerging Trends
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samihaislamborsha-27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p><p align="center">
   <img src="https://streak-stats.demolab.com?user=samihaislamborsha-27&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>---
+</p>
+
 
 🎯 What I'm Working Towards
 
@@ -144,13 +148,14 @@ Human-AI Collaboration in Modern Education: A Review of Emerging Trends
   <a href="https://github.com/samihaislamborsha-27">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>---
+</p>
+</p>
+<a href="mailto:Samihaislamborsha27@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
 <p align="center">
   <i>“Curious mind. Continuous learning. Meaningful progress.”</i>
   <br/>
   🌱 Always learning, always growing.
-</p>
-<a href="mailto:Samihaislamborsha27@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+logo=gmail&logoColor=white" alt="Gmail"/>
